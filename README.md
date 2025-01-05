@@ -8,11 +8,11 @@ Capital Bikeshare systems rely on maintaining optimal availability of bikes and 
 
 The project’s primary goals include:
 
-• Forecasting bike usage patterns based on weather conditions.
+- Forecasting bike usage patterns based on weather conditions.
 
-• Identifying the best predictive model using machine learning techniques.
+- Identifying the best predictive model using machine learning techniques.
 
-• Providing actionable insights for cost minimization and quality maximization strategies.
+- Providing actionable insights for cost minimization and quality maximization strategies.
 
 ## Data Preparation & Exploratory Analysis:
 
@@ -36,15 +36,15 @@ Some weather factors, like visibility and wind speed, exhibited unclear trends a
 
 Five machine learning models were implemented to forecast bike movement:
 
-• Linear Regression: Established baseline performance, demonstrating moderate predictive capability.
+- Linear Regression: Established baseline performance, demonstrating moderate predictive capability.
 
-• Ridge Regression: Addressed multicollinearity and overfitting; emerged as the most robust model for predictions.
+- Ridge Regression: Addressed multicollinearity and overfitting; emerged as the most robust model for predictions.
 
-• LASSO Regression: Effective for feature selection by driving unnecessary coefficients to zero.
+- LASSO Regression: Effective for feature selection by driving unnecessary coefficients to zero.
 
-• Elastic Net: Combined strengths of Ridge and LASSO; performed well in balancing prediction accuracy and complexity.
+- Elastic Net: Combined strengths of Ridge and LASSO; performed well in balancing prediction accuracy and complexity.
 
-• KNN Regressor: Demonstrated limited utility due to dataset characteristics and high variance in predictions.
+- KNN Regressor: Demonstrated limited utility due to dataset characteristics and high variance in predictions.
 
 ### Model Comparison Metrics:
 
@@ -70,9 +70,9 @@ Beyond technical accuracy, models were assessed based on their practical utility
 
 ### Cost Minimization Strategy:
 
-• Focused on minimizing penalties for unsuccessful pickups/dropoffs.
+- Focused on minimizing penalties for unsuccessful pickups/dropoffs.
 
-• Elastic Net and LASSO excelled, achieving the lowest total costs.
+- Elastic Net and LASSO excelled, achieving the lowest total costs.
 
 ### Quality Maximization Strategy:
 
@@ -99,19 +99,19 @@ Management can use these insights to allocate bikes and docks effectively, reduc
 ### Management Impact:
 By integrating these models, Capital Bikeshare can:
 
-• Reduce costs associated with unsuccessful pickups/dropoffs.
+- Reduce costs associated with unsuccessful pickups/dropoffs.
 
-• Improve user satisfaction by ensuring bike/dock availability.
+- Improve user satisfaction by ensuring bike/dock availability.
 
-• Leverage data-driven decision-making to anticipate demand and optimize resource allocation.
+- Leverage data-driven decision-making to anticipate demand and optimize resource allocation.
 
 ## Limitations & Future Work:
 
 While this study provides actionable insights, it has some limitations:
 
-• Assumes simultaneous pickups and dropoffs, whereas these events occur sequentially in real-world scenarios.
+- Assumes simultaneous pickups and dropoffs, whereas these events occur sequentially in real-world scenarios.
 
-• Future studies could incorporate real-time data and hourly optimizations to account for dynamic system changes.
+- Future studies could incorporate real-time data and hourly optimizations to account for dynamic system changes.
 
 Visualizations:
 
