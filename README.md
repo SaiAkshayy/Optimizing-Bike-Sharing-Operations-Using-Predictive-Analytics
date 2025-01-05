@@ -28,9 +28,9 @@ Some weather factors, like visibility and wind speed, exhibited unclear trends a
 
 ### Visualizations:
 
-Scatterplots demonstrating correlations between weather variables and bike usage.
+- Scatterplots demonstrating correlations between weather variables and bike usage.
 
-A correlation matrix highlighting the relationships between all variables, providing insights into feature selection for predictive modeling.
+- A correlation matrix highlighting the relationships between all variables, providing insights into feature selection for predictive modeling.
 
 ## Predictive Modeling:
 
@@ -54,13 +54,13 @@ R² (R-Squared): Measures the proportion of variance explained by the model.
 
 ### Key Insights:
 
-Ridge Regression outperformed other models, achieving the lowest MSE and highest R² values.
+- Ridge Regression outperformed other models, achieving the lowest MSE and highest R² values.
 
-Elastic Net and LASSO showed strengths in feature selection and adaptability for operational strategies.
+- Elastic Net and LASSO showed strengths in feature selection and adaptability for operational strategies.
 
-KNN underperformed due to the high dimensionality and nature of the dataset.
+- KNN underperformed due to the high dimensionality and nature of the dataset.
 
-Visualizations:
+### Visualizations:
 
 Bar charts comparing MSE and R² values for all models, highlighting Ridge Regression’s superiority.
 
@@ -76,23 +76,23 @@ Beyond technical accuracy, models were assessed based on their practical utility
 
 ### Quality Maximization Strategy:
 
-Prioritized maximizing the weighted average service level for pickups and dropoffs.
+- Prioritized maximizing the weighted average service level for pickups and dropoffs.
 
-Elastic Net and LASSO delivered the best results, optimizing service levels.
+- Elastic Net and LASSO delivered the best results, optimizing service levels.
 
-Visualizations:
+### Visualizations:
 
-Heatmaps illustrating trade-offs between cost minimization and service quality across models.
+- Heatmaps illustrating trade-offs between cost minimization and service quality across models.
 
-Scatterplots showing allocation efficiency for different strategies.
+- Scatterplots showing allocation efficiency for different strategies.
 
 ## Conclusion & Recommendations:
 
 The analysis highlights the potential of predictive modeling to enhance the operational efficiency of bike-sharing systems. Key recommendations include:
 
-Ridge Regression should be employed for general prediction tasks due to its accuracy and reliability.
+- Ridge Regression should be employed for general prediction tasks due to its accuracy and reliability.
 
-Elastic Net and LASSO are ideal for decision-making strategies, balancing cost minimization and service quality.
+- Elastic Net and LASSO are ideal for decision-making strategies, balancing cost minimization and service quality.
 
 Management can use these insights to allocate bikes and docks effectively, reducing operational costs and improving customer satisfaction.
 
@@ -115,7 +115,7 @@ While this study provides actionable insights, it has some limitations:
 
 Visualizations:
 
-Time series plots simulating hourly trends for bike availability.
+- Time series plots simulating hourly trends for bike availability.
 
-Real-time dashboards for monitoring and adjusting predictions dynamically.
+- Real-time dashboards for monitoring and adjusting predictions dynamically.
 
