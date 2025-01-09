@@ -1,4 +1,4 @@
-# Optimizing-Bike-Sharing-Operations-Using-Predictive-Analytics
+21# Optimizing-Bike-Sharing-Operations-Using-Predictive-Analytics
 
 # Capital Bikeshare Case Analysis
 
@@ -41,13 +41,13 @@ Five machine learning models were implemented to forecast bike movement:
 
 - KNN Regressor: Demonstrated limited utility due to dataset characteristics and high variance in predictions.
 
-### Model Comparison Metrics:
+### <ins> Model Comparison Metrics:
 
 Mean Squared Error (MSE): Evaluates prediction error.
 
 R² (R-Squared): Measures the proportion of variance explained by the model.
 
-### Key Insights:
+### <ins> Key Insights:
 
 - Ridge Regression outperformed other models, achieving the lowest MSE and highest R² values.
 
