@@ -85,7 +85,7 @@ The analysis highlights the potential of predictive modeling to enhance the oper
 
 Management can use these insights to allocate bikes and docks effectively, reducing operational costs and improving customer satisfaction.
 
-### Management Impact:
+### <ins> Management Impact:
 By integrating these models, Capital Bikeshare can:
 
 - Reduce costs associated with unsuccessful pickups/dropoffs.
