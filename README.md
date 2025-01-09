@@ -54,32 +54,26 @@ R² (R-Squared): Measures the proportion of variance explained by the model.
 - Elastic Net and LASSO showed strengths in feature selection and adaptability for operational strategies.
 
 - KNN underperformed due to the high dimensionality and nature of the dataset.
+<img src = "" width = 700 height = 400> <img src = "" width = 700 height = 400>
 
-### Visualizations:
-
-Bar charts comparing MSE and R² values for all models, highlighting Ridge Regression’s superiority.
-
-### Decision Performance Evaluation:
+### <ins> Decision Performance Evaluation:
 
 Beyond technical accuracy, models were assessed based on their practical utility in two strategic scenarios:
 
-### Cost Minimization Strategy:
+### <ins> Cost Minimization Strategy:
 
 - Focused on minimizing penalties for unsuccessful pickups/dropoffs.
 
 - Elastic Net and LASSO excelled, achieving the lowest total costs.
+<img src = "" width = 1000 height = 700>
 
-### Quality Maximization Strategy:
+### <ins> Quality Maximization Strategy:
 
 - Prioritized maximizing the weighted average service level for pickups and dropoffs.
 
 - Elastic Net and LASSO delivered the best results, optimizing service levels.
+<img src = "" width = 1000 height = 700>
 
-### Visualizations:
-
-- Heatmaps illustrating trade-offs between cost minimization and service quality across models.
-
-- Scatterplots showing allocation efficiency for different strategies.
 
 ## Conclusion & Recommendations:
 
@@ -107,10 +101,6 @@ While this study provides actionable insights, it has some limitations:
 - Assumes simultaneous pickups and dropoffs, whereas these events occur sequentially in real-world scenarios.
 
 - Future studies could incorporate real-time data and hourly optimizations to account for dynamic system changes.
-
-Visualizations:
-
-- Time series plots simulating hourly trends for bike availability.
 
 - Real-time dashboards for monitoring and adjusting predictions dynamically.
 
