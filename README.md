@@ -18,7 +18,7 @@ The project’s primary goals include:
 
 To build predictive models, daily weather data was combined with Capital Bikeshare system data. The dataset included variables such as temperature, wind speed, UV index, precipitation, and visibility. Exploratory data analysis focused on understanding the relationships between these factors and bike pickups/dropoffs.
 
-## Key Findings:
+### Key Findings:
 
 Higher temperatures and UV index levels correlated positively with increased bike usage, indicating that favorable weather encourages biking.
 
