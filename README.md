@@ -60,14 +60,14 @@ R² (R-Squared): Measures the proportion of variance explained by the model.
 
 Beyond technical accuracy, models were assessed based on their practical utility in two strategic scenarios:
 
-### <ins> Cost Minimization Strategy:
+### 1. Cost Minimization Strategy:
 
 - Focused on minimizing penalties for unsuccessful pickups/dropoffs.
 
 - Elastic Net and LASSO excelled, achieving the lowest total costs.
 <img src = "https://github.com/user-attachments/assets/eee8d588-3500-4510-a694-369efa1628e6" width = 700 height = 400>
 
-### <ins> Quality Maximization Strategy:
+### 2. Quality Maximization Strategy:
 
 - Prioritized maximizing the weighted average service level for pickups and dropoffs.
 
