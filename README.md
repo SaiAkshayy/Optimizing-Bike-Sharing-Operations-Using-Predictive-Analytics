@@ -65,7 +65,7 @@ Beyond technical accuracy, models were assessed based on their practical utility
 - Focused on minimizing penalties for unsuccessful pickups/dropoffs.
 
 - Elastic Net and LASSO excelled, achieving the lowest total costs.
-<img src = "" width = 1000 height = 700>
+<img src = "https://github.com/user-attachments/assets/eee8d588-3500-4510-a694-369efa1628e6" width = 800 height = 500>
 
 ### <ins> Quality Maximization Strategy:
 
