@@ -52,7 +52,7 @@ R² (R-Squared): Measures the proportion of variance explained by the model.
 - Elastic Net and LASSO showed strengths in feature selection and adaptability for operational strategies.
 
 - KNN underperformed due to the high dimensionality and nature of the dataset.
-<img src = "https://github.com/user-attachments/assets/93a1b17d-0bc8-453e-b3ec-b9efe09f115a" width = 500 height = 300> <img src = "https://github.com/user-attachments/assets/036bc41a-13c8-421d-9e3c-0e03056ae3c1" width = 500 height = 300>
+<img src = "https://github.com/user-attachments/assets/93a1b17d-0bc8-453e-b3ec-b9efe09f115a" width = 450 height = 300> <img src = "https://github.com/user-attachments/assets/036bc41a-13c8-421d-9e3c-0e03056ae3c1" width = 450 height = 300>
 
 ### <ins> Decision Performance Evaluation:
 
