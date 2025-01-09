@@ -25,7 +25,7 @@ To build predictive models, daily weather data was combined with Capital Bikesha
 - Dew point and precipitation showed mixed effects, with extreme conditions potentially discouraging bike usage.
 
 - Some weather factors, like visibility and wind speed, exhibited unclear trends and required further investigation.
-<img src = "https://github.com/user-attachments/assets/9769e8aa-4e7b-48a2-b2ae-5cb5cb0b1611" width = 1500 height = 800>
+<img src = "https://github.com/user-attachments/assets/9769e8aa-4e7b-48a2-b2ae-5cb5cb0b1611" width = 1200 height = 600>
 
 ## Predictive Modeling:
 
