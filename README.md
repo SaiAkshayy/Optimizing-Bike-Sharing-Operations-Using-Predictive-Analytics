@@ -1,5 +1,3 @@
-# Optimizing-Bike-Sharing-Operations-Using-Predictive-Analytics
-
 # Capital Bikeshare Case Analysis
 
 ## Project Overview:
