@@ -20,11 +20,11 @@ To build predictive models, daily weather data was combined with Capital Bikesha
 
 ### <ins> Key Findings:
 
-Higher temperatures and UV index levels correlated positively with increased bike usage, indicating that favorable weather encourages biking.
+- Higher temperatures and UV index levels correlated positively with increased bike usage, indicating that favorable weather encourages biking.
 
-Dew point and precipitation showed mixed effects, with extreme conditions potentially discouraging bike usage.
+- Dew point and precipitation showed mixed effects, with extreme conditions potentially discouraging bike usage.
 
-Some weather factors, like visibility and wind speed, exhibited unclear trends and required further investigation.
+- Some weather factors, like visibility and wind speed, exhibited unclear trends and required further investigation.
 
 ### Visualizations:
 
